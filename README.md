@@ -106,18 +106,6 @@ An AI-based project designed to recognize American Sign Language (ASL) alphabet 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hemanthvenkateswaran8&show_icons=true&hide_border=false&bg_color=000000&title_color=7DD3FC&text_color=E0F2FE&icon_color=38BDF8&border_color=1E3A5F&border_radius=10" alt="GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthvenkateswaran8&layout=compact&hide_border=false&bg_color=000000&title_color=7DD3FC&text_color=E0F2FE&border_color=1E3A5F&border_radius=10" alt="Most Used Languages" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -150,7 +138,7 @@ An AI-based project designed to recognize American Sign Language (ASL) alphabet 
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Stats 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/hemanthvenkateswaran8/hemanthvenkateswaran8/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
