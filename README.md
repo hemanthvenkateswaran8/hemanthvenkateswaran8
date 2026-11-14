@@ -153,9 +153,7 @@ An AI-based project designed to recognize American Sign Language (ASL) alphabet 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/hemanthvenkateswaran8/hemanthvenkateswaran8/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-
+  <img src="https://raw.githubusercontent.com/hemanthvenkateswaran8/hemanthvenkateswaran8/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---
